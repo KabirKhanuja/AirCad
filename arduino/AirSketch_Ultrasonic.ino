@@ -24,7 +24,7 @@ const unsigned long BAUD_RATE = 115200;
 
 // Measurement settings
 const unsigned long MEASURE_INTERVAL_MS = 50; // how often to measure
-const unsigned int MAX_DISTANCE_CM = 400;     // HC-SR04 practical max ~400 cm
+const unsigned int MAX_DISTANCE_CM = 350;     // HC-SR04 practical max ~400 cm
 const unsigned long TIMEOUT_US = 30000UL;    // 30 ms timeout (~5 meters) for pulseIn
 
 // Smoothing (moving average)
