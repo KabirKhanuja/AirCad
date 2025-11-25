@@ -1,6 +1,6 @@
-# AirSketch
+# AirCad
 
-AirSketch is a gesture-based virtual drawing system that lets users draw in the air using their hand. It combines AI-based hand tracking with Arduino ultrasonic sensing to create a real-time sketching experience.
+AirCad is a gesture-based virtual drawing system that lets users draw in the air using their hand. It combines AI-based hand tracking with Arduino ultrasonic sensing to create a real-time sketching experience.
 
 ## Overview
 The system uses:
